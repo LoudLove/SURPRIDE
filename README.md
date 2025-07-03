@@ -1,2 +1,2 @@
 # UHRbiqa
-This repo is the official implementation of "Down- and up-sampling for quality assessment of ultra-high-resolution images"
+This repo is the official implementation of "Super-resolved pseudo references in dual-branch embedding for blind ultra-high-definition image quality assessment"
